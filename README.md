@@ -4,6 +4,6 @@
 
 ## Pictures
 
-![Experiment](images/ExperimentThing.jpg)
+![Experiment](images/ExperimentThing.png)
 
-<img src="images/ExperimentThing.jpg" alt="Experiment" width="128" height="128">
+<img src="images/ExperimentThing.png" alt="Experiment" width="128" height="128">
